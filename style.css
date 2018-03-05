@@ -1,0 +1,26 @@
+.text-black {
+    color: black;
+}
+.position {
+    padding: 3rem 1.5rem 0;
+}
+.top-place {
+    padding: 3rem 1.5rem ;
+    margin-top: 10rem;
+}
+.hide {
+    display: none;
+}
+.h1{
+    font-size: 1vw;
+}
+.hover{
+    background-color:#5FA1EC;
+}
+.text{
+    color: black;
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+}
